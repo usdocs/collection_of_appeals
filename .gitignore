@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment (uv)
+.venv/
+
+# Данные, созданные при работе сервиса
+data/*
+!data/.gitkeep
